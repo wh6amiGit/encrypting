@@ -1,4 +1,4 @@
 # encrypting
 Encrypting in python with cryptography
 
-Example: python encrypt.py C:\User\user\... 32
+Example: python encrypt.py C:\Users\user\... 32
